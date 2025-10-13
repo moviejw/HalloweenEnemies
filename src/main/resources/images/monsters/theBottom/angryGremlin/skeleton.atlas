@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 142,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/armleft
+  rotate: false
+  xy: 91, 113
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+images/armright
+  rotate: false
+  xy: 2, 4
+  size: 59, 12
+  orig: 59, 27
+  offset: 0, 1
+  index: -1
+images/body
+  rotate: false
+  xy: 91, 69
+  size: 28, 42
+  orig: 30, 42
+  offset: 1, 0
+  index: -1
+images/cl1
+  rotate: true
+  xy: 91, 7
+  size: 14, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+images/cl2
+  rotate: false
+  xy: 81, 48
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+images/cl3
+  rotate: true
+  xy: 107, 23
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+images/cr1
+  rotate: false
+  xy: 133, 52
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+images/cr2
+  rotate: true
+  xy: 81, 23
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+images/cr3
+  rotate: false
+  xy: 105, 11
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+images/eyes
+  rotate: false
+  xy: 81, 31
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+images/footleft
+  rotate: false
+  xy: 78, 2
+  size: 11, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+images/footright
+  rotate: true
+  xy: 129, 32
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+images/ghost
+  rotate: false
+  xy: 2, 59
+  size: 66, 81
+  orig: 96, 106
+  offset: 18, 16
+  index: -1
+images/handleft
+  rotate: false
+  xy: 107, 33
+  size: 20, 11
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+images/handright
+  rotate: true
+  xy: 63, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+images/head
+  rotate: false
+  xy: 52, 23
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+images/horns
+  rotate: false
+  xy: 2, 18
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+images/legleft
+  rotate: true
+  xy: 91, 46
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+images/legright
+  rotate: false
+  xy: 121, 69
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+images/shadow
+  rotate: true
+  xy: 70, 65
+  size: 75, 19
+  orig: 76, 19
+  offset: 1, 0
+  index: -1

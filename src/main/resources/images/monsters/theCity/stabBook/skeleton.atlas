@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1, 408
+  size: 308, 39
+  orig: 308, 39
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 105, 449
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 1
+  size: 245, 306
+  orig: 245, 306
+  offset: 0, 0
+  index: -1
+emp
+  rotate: false
+  xy: 248, 230
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+chainsaw
+  rotate: false
+  xy: 248, 1
+  size: 159, 227
+  orig: 159, 227
+  offset: 0, 0
+  index: -1
+hilt
+  rotate: false
+  xy: 380, 312
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 1, 449
+  size: 102, 47
+  orig: 102, 47
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 311, 408
+  size: 115, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 380, 230
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: false
+  xy: 428, 382
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
