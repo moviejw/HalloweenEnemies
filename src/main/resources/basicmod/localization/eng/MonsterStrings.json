@@ -51,7 +51,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Bear",
+    "NAME": "Freddy",
     "DIALOG": [
       ""
     ]
@@ -60,20 +60,20 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Pointy",
+    "NAME": "Bonnie",
     "DIALOG": [
-      "~Beeeaaar!!!!~"
+      "~Freddy!!!!~"
     ]
   },
   "BanditLeader": {
     "MOVES": [
       ""
     ],
-    "NAME": "Romeo",
+    "NAME": "Foxy",
     "DIALOG": [
-      "~Grab~ ~em'~ ~Bear!!~",
+      "~Grab~ ~em'~ ~Freddy!!~",
       "~You~ ~will~ ~pay~ ~for~ ~this!!~",
-      "~Nooooooo,~ ~Bear!~"
+      "~Nooooooo,~ ~Freddy!~"
     ]
   },
   "BookOfStabbing": {
@@ -257,7 +257,7 @@
     "MOVES": [
       "Spit Web"
     ],
-    "NAME": "Louse",
+    "NAME": "Prisoner Louse",
     "DIALOG": [
       ""
     ]
@@ -266,7 +266,7 @@
     "MOVES": [
       "Grow"
     ],
-    "NAME": "Louse",
+    "NAME": "Honeybee Louse",
     "DIALOG": [
       ""
     ]
@@ -556,7 +556,7 @@
     "MOVES": [
       "Enfeebling Spores"
     ],
-    "NAME": "Snake Plant",
+    "NAME": "Piranha Plant",
     "DIALOG": [
       ""
     ]
@@ -620,7 +620,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "The Collector",
+    "NAME": "Impostor",
     "DIALOG": [
       "@You@ @are@ @mine!@"
     ]
@@ -663,7 +663,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Torch Head",
+    "NAME": "Crewmate",
     "DIALOG": [
       ""
     ]

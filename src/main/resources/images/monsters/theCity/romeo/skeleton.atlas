@@ -1,118 +1,118 @@
 
-romeo.png
-size: 373,140
+skeleton.png
+size: 256,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+shadow
+  rotate: false
+  xy: 83, 1
+  size: 149, 29
+  orig: 149, 29
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 219, 176
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 219, 135
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+sleeve_l
+  rotate: false
+  xy: 147, 32
+  size: 41, 101
+  orig: 41, 101
+  offset: 0, 0
+  index: -1
 dagger
   rotate: false
-  xy: 233, 40
+  xy: 1, 232
   size: 52, 22
   orig: 52, 22
   offset: 0, 0
   index: -1
 fingers
   rotate: false
-  xy: 348, 21
+  xy: 122, 90
   size: 23, 22
   orig: 23, 22
   offset: 0, 0
   index: -1
-hair_back
-  rotate: false
-  xy: 197, 47
-  size: 34, 39
-  orig: 34, 39
-  offset: 0, 0
-  index: -1
-hair_front
-  rotate: false
-  xy: 197, 88
-  size: 32, 50
-  orig: 32, 50
-  offset: 0, 0
-  index: -1
-head
-  rotate: true
-  xy: 305, 87
-  size: 51, 56
-  orig: 51, 56
-  offset: 0, 0
-  index: -1
-l_hand
-  rotate: true
-  xy: 326, 45
-  size: 24, 22
-  orig: 24, 22
-  offset: 0, 0
-  index: -1
-mask
-  rotate: true
-  xy: 235, 64
-  size: 74, 68
-  orig: 74, 68
-  offset: 0, 0
-  index: -1
-pants
-  rotate: false
-  xy: 2, 11
-  size: 80, 127
-  orig: 80, 127
-  offset: 0, 0
-  index: -1
-r_hand
-  rotate: true
-  xy: 305, 71
-  size: 14, 25
-  orig: 14, 25
-  offset: 0, 0
-  index: -1
-shadow
-  rotate: false
-  xy: 84, 2
-  size: 149, 29
-  orig: 149, 29
-  offset: 0, 0
-  index: -1
 shoe_l
   rotate: false
-  xy: 287, 42
+  xy: 83, 90
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
   index: -1
 shoe_r
   rotate: false
-  xy: 332, 71
+  xy: 83, 112
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 shoe_r_bg
   rotate: false
-  xy: 197, 33
+  xy: 55, 232
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
-sleeve_l
+head
   rotate: false
-  xy: 154, 37
-  size: 41, 101
-  orig: 41, 101
+  xy: 83, 32
+  size: 51, 56
+  orig: 51, 56
   offset: 0, 0
   index: -1
-sleeve_r
-  rotate: true
-  xy: 235, 2
-  size: 36, 111
-  orig: 36, 111
+pants
+  rotate: false
+  xy: 1, 1
+  size: 80, 127
+  orig: 80, 127
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 185, 187
+  size: 14, 25
+  orig: 14, 25
   offset: 0, 0
   index: -1
 tunic
   rotate: false
-  xy: 84, 33
+  xy: 77, 130
   size: 68, 105
   orig: 68, 105
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 185, 135
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+sleeve_r
+  rotate: false
+  xy: 147, 135
+  size: 36, 111
+  orig: 36, 111
+  offset: 0, 0
+  index: -1
+bonnie
+  rotate: false
+  xy: 1, 130
+  size: 74, 100
+  orig: 74, 100
   offset: 0, 0
   index: -1

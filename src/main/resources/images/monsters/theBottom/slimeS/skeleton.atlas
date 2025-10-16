@@ -1,34 +1,41 @@
 
 skeleton.png
-size: 256,64
+size: 128,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+shadow
+  rotate: false
+  xy: 1, 99
+  size: 102, 30
+  orig: 102, 30
+  offset: 0, 0
+  index: -1
 body
   rotate: false
-  xy: 106, 15
+  xy: 1, 50
   size: 74, 47
   orig: 74, 47
   offset: 0, 0
   index: -1
 eyeShadow
-  rotate: true
-  xy: 2, 2
+  rotate: false
+  xy: 77, 1
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 eyes
   rotate: false
-  xy: 182, 51
+  xy: 77, 20
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
-shadow
+hat
   rotate: false
-  xy: 2, 32
-  size: 102, 30
-  orig: 102, 30
+  xy: 1, 1
+  size: 74, 47
+  orig: 74, 47
   offset: 0, 0
   index: -1
