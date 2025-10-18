@@ -1,54 +1,61 @@
 
 skeleton.png
-size: 512,256
+size: 540,176
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 images/arm
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 511, 118
   size: 56, 27
   orig: 56, 27
   offset: 0, 0
   index: -1
 images/body
   rotate: false
-  xy: 2, 116
-  size: 256, 128
+  xy: 253, 55
+  size: 256, 119
   orig: 256, 128
-  offset: 0, 0
+  offset: 0, 9
+  index: -1
+images/dress
+  rotate: false
+  xy: 2, 49
+  size: 249, 125
+  orig: 270, 137
+  offset: 15, 7
   index: -1
 images/jaw
   rotate: false
-  xy: 2, 31
-  size: 129, 37
+  xy: 2, 11
+  size: 109, 36
   orig: 129, 37
-  offset: 0, 0
+  offset: 3, 1
   index: -1
 images/shadow
   rotate: false
-  xy: 2, 70
-  size: 270, 44
+  xy: 253, 10
+  size: 270, 43
   orig: 270, 44
-  offset: 0, 0
+  offset: 0, 1
   index: -1
 images/shoulder
   rotate: true
-  xy: 260, 147
+  xy: 209, 2
   size: 45, 28
   orig: 45, 28
   offset: 0, 0
   index: -1
 images/tentacleback
-  rotate: false
-  xy: 260, 194
+  rotate: true
+  xy: 113, 8
   size: 39, 50
   orig: 39, 50
   offset: 0, 0
   index: -1
 images/tentaclemid
   rotate: false
-  xy: 133, 35
+  xy: 165, 14
   size: 42, 33
   orig: 42, 33
   offset: 0, 0
